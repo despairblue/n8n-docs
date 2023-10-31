@@ -8,5 +8,5 @@ contentType: reference
 ---
 
 
-<redoc theme='{"typography": {"font-family":"Open sans", "headings":{"fontFamily":"Open sans"}}}' spec-url="/api/v1/openapi.yml"></redoc>
-<script src="https://cdn.jsdelivr.net/npm/redoc@latest/bundles/redoc.standalone.js"> </script>
+<script id="api-reference" data-url="/api/v1/openapi.yml"></script>
+<script src="https://cdn.jsdelivr.net/npm/@scalar/api-reference"></script>
